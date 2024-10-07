@@ -1,0 +1,7 @@
+.venv
+.env
+
+storage
+
+output/
+output2/

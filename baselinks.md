@@ -1,0 +1,409 @@
+| URL          | Classifier |
+|--------------|-----------|
+| https://www.ulusofona.pt/acao-social-escolar            | Base URL    |
+| https://www.ulusofona.pt/app-lusofona-ensino            | Single URL  |
+| https://www.ulusofona.pt/applications/candidature-calendarios | Single URL  |
+| https://www.ulusofona.pt/avadoc          | Base URL    |
+| https://www.ulusofona.pt/calendarios     | Single URL  |
+| https://www.ulusofona.pt/canal-denuncia-interna | Single URL  |
+| https://www.ulusofona.pt/candidaturas     | Base URL    |
+| https://www.ulusofona.pt/cinema-fernando-lopes | Single URL  |
+| https://www.ulusofona.pt/click            | Base URL    |
+| https://www.ulusofona.pt/contactos       | Single URL  |
+| https://www.ulusofona.pt/conversas-sobre  | Base URL    |
+| https://www.ulusofona.pt/criar-saberes     | Base URL    |
+| https://www.ulusofona.pt/cronicas         | Base URL    |
+| https://www.ulusofona.pt/curso-preparatorio-para-internacionais | Single URL  |
+| https://www.ulusofona.pt/cursos           | Base URL    |
+| https://www.ulusofona.pt/dias-abertos     | Base URL    |
+| https://www.ulusofona.pt/docentes        | Base URL    |
+| https://www.ulusofona.pt/documents        | Base URL    |
+| https://www.ulusofona.pt/doutoramentos    | Base URL    |
+| https://www.ulusofona.pt/en/about         | Base URL    |
+| https://www.ulusofona.pt/en/acao-social-escolar | Base URL    |
+| https://www.ulusofona.pt/en/applications  | Base URL    |
+| https://www.ulusofona.pt/en/avadoc       | Base URL    |
+| https://www.ulusofona.pt/en/bachelor     | Base URL    |
+| https://www.ulusofona.pt/en/building-knowledge | Base URL    |
+| https://www.ulusofona.pt/en/calendars    | Single URL  |
+| https://www.ulusofona.pt/en/chronicles    | Base URL    |
+| https://www.ulusofona.pt/en/cinema-fernando-lopes | Single URL  |
+| https://www.ulusofona.pt/en/click         | Base URL    |
+| https://www.ulusofona.pt/en/contacts     | Base URL    |
+| https://www.ulusofona.pt/en/conversations-about/ | Base URL    |
+| https://www.ulusofona.pt/en/courses      | Base URL    |
+| https://www.ulusofona.pt/en/documents    | Base URL    |
+| https://www.ulusofona.pt/en/email        | Single URL  |
+| https://www.ulusofona.pt/en/en/masters    | Single URL  |
+| https://www.ulusofona.pt/en/erasmus-mundus | Single URL  |
+| https://www.ulusofona.pt/en/event        | Base URL    |
+| https://www.ulusofona.pt/en/faculties-and-schools | Base URL    |
+| https://www.ulusofona.pt/en/faqs          | Base URL    |
+| https://www.ulusofona.pt/en/fees        | Single URL  |
+| https://www.ulusofona.pt/en/gaenee       | Single URL  |
+| https://www.ulusofona.pt/en/green-lusofona | Base URL    |
+| https://www.ulusofona.pt/en/integrated-masters | Base URL    |
+| https://www.ulusofona.pt/en/internal-reporting-channel | Single URL  |
+| https://www.ulusofona.pt/en/international-students | Base URL    |
+| https://www.ulusofona.pt/en/interviews    | Base URL    |
+| https://www.ulusofona.pt/en/lessons       | Single URL  |
+| https://www.ulusofona.pt/en/lisboa/bachelor | Base URL    |
+| https://www.ulusofona.pt/en/lisboa/erasmus-mundus | Base URL    |
+| https://www.ulusofona.pt/en/lisboa/integrated-masters | Base URL    |
+| https://www.ulusofona.pt/en/lisboa/masters | Base URL    |
+| https://www.ulusofona.pt/en/lisboa/phd     | Base URL    |
+| https://www.ulusofona.pt/en/lisboa/post-graduation | Base URL    |
+| https://www.ulusofona.pt/en/lisboa/teachers | Base URL    |
+| https://www.ulusofona.pt/en/lisboa/training | Base URL    |
+| https://www.ulusofona.pt/en/lost-and-found  | Single URL  |
+| https://www.ulusofona.pt/en/lusofona-in-the-media | Single URL  |
+| https://www.ulusofona.pt/en/lusofona-talks    | Base URL    |
+| https://www.ulusofona.pt/en/lusofona-verde  | Single URL  |
+| https://www.ulusofona.pt/en/masters         | Base URL    |
+| https://www.ulusofona.pt/en/mobility      | Base URL    |
+| https://www.ulusofona.pt/en/news           | Base URL    |
+| https://www.ulusofona.pt/en/noisi          | Base URL    |
+| https://www.ulusofona.pt/en/open-days     | Base URL    |
+| https://www.ulusofona.pt/en/open-positions  | Base URL    |
+| https://www.ulusofona.pt/en/phd            | Base URL    |
+| https://www.ulusofona.pt/en/podcasts       | Base URL    |
+| https://www.ulusofona.pt/en/porto          | Base URL    |
+| https://www.ulusofona.pt/en/post-graduation | Base URL    |
+| https://www.ulusofona.pt/en/qualidade     | Base URL    |
+| https://www.ulusofona.pt/en/services       | Base URL    |
+| https://www.ulusofona.pt/en/student       | Base URL    |
+| https://www.ulusofona.pt/en/teacher-and-researcher-training | Base URL    |
+| https://www.ulusofona.pt/en/teachers      | Base URL    |
+| https://www.ulusofona.pt/en/testimonials   | Base URL    |
+| https://www.ulusofona.pt/en/theses        | Single URL  |
+| https://www.ulusofona.pt/en/training       | Single URL  |
+| https://www.ulusofona.pt/en/undergraduate  | Base URL    |
+| https://www.ulusofona.pt/en/validation-of-issued-documents | Single URL  |
+| https://www.ulusofona.pt/entrevistas      | Base URL    |
+| https://www.ulusofona.pt/erasmus-mundus   | Base URL    |
+| https://www.ulusofona.pt/estudante-internacional | Base URL    |
+| https://www.ulusofona.pt/estudantes       | Base URL    |
+| https://www.ulusofona.pt/event            | Base URL    |
+| https://www.ulusofona.pt/faculdades-e-escolas | Base URL    |
+| https://www.ulusofona.pt/faqs              | Base URL    |
+| https://www.ulusofona.pt/formacao         | Base URL    |
+| https://www.ulusofona.pt/formacao-docentes-e-investigador | Base URL    |
+| https://www.ulusofona.pt/formacao-docentes-e-investigador/formacao-docentes-e-investigadores | Single URL  |
+| https://www.ulusofona.pt/formacao-docentes-e-investigador/formacao-docentes-e-investigadores#share-modal | Single URL  |
+| https://www.ulusofona.pt/gaenee           | Single URL  |
+| https://www.ulusofona.pt/lessons          | Single URL  |
+| https://www.ulusofona.pt/licenciaturas   | Base URL    |
+| https://www.ulusofona.pt/lisboa/bachelor   | Base URL    |
+| https://www.ulusofona.pt/lisboa/docentes  | Base URL    |
+| https://www.ulusofona.pt/lisboa/doutoramentos | Base URL    |
+| https://www.ulusofona.pt/lisboa/erasmus-mundus | Base URL    |
+| https://www.ulusofona.pt/lisboa/formacao   | Base URL    |
+| https://www.ulusofona.pt/lisboa/integrated-masters | Base URL    |
+| https://www.ulusofona.pt/lisboa/licenciaturas | Base URL    |
+| https://www.ulusofona.pt/lisboa/masters    | Base URL    |
+| https://www.ulusofona.pt/lisboa/mestrados   | Base URL    |
+| https://www.ulusofona.pt/lisboa/phd        | Base URL    |
+| https://www.ulusofona.pt/lisboa/post-graduacoes | Base URL    |
+| https://www.ulusofona.pt/lusofona-nos-media | Single URL  |
+| https://www.ulusofona.pt/lusofona-talks    | Base URL    |
+| https://www.ulusofona.pt/lusofona-verde     | Base URL    |
+| https://www.ulusofona.pt/media             | Base URL    |
+| https://www.ulusofona.pt/mestrados        | Base URL    |
+| https://www.ulusofona.pt/mobilidade       | Base URL    |
+| https://www.ulusofona.pt/news             | Base URL    |
+| https://www.ulusofona.pt/noisi            | Base URL    |
+| https://www.ulusofona.pt/noticias         | Base URL    |
+| https://www.ulusofona.pt/perlidos-e-achados | Base URL    |
+| https://www.ulusofona.pt/podcasts         | Base URL    |
+| https://www.ulusofona.pt/porto            | Base URL    |
+| https://www.ulusofona.pt/pos-graduacoes   | Base URL    |
+| https://www.ulusofona.pt/programa-preparar | Single URL  |
+| https://www.ulusofona.pt/propinas         | Single URL  |
+| https://www.ulusofona.pt/provedor-do-estudante | Single URL  |
+| https://www.ulusofona.pt/qualidade       | Base URL    |
+| https://www.ulusofona.pt/servicos         | Base URL    |
+| https://www.ulusofona.pt/sistema-teams     | Single URL  |
+| https://www.ulusofona.pt/sistema-zoom     | Single URL  |
+| https://www.ulusofona.pt/sobre            | Base URL    |
+| https://www.ulusofona.pt/teses           | Single URL  |
+| https://www.ulusofona.pt/testemunhos     | Base URL    |
+| https://www.ulusofona.pt/vagas            | Base URL    |
+
+
+
+---
+
+
+https://www.ulusofona.pt/acao-social-escolar
+
+- https://www.ulusofona.pt/app-lusofona-ensino
+
+- https://www.ulusofona.pt/applications/candidature-calendarios
+
+https://www.ulusofona.pt/avadoc
+
+- https://www.ulusofona.pt/calendarios
+
+- https://www.ulusofona.pt/canal-denuncia-interna
+
+https://www.ulusofona.pt/candidaturas
+
+- https://www.ulusofona.pt/cinema-fernando-lopes
+
+https://www.ulusofona.pt/click
+
+- https://www.ulusofona.pt/contactos
+
+https://www.ulusofona.pt/conversas-sobre
+
+https://www.ulusofona.pt/criar-saberes
+
+https://www.ulusofona.pt/cronicas
+
+- https://www.ulusofona.pt/curso-preparatorio-para-internacionais
+
+
+https://www.ulusofona.pt/cursos
+
+https://www.ulusofona.pt/dias-abertos
+
+https://www.ulusofona.pt/docentes
+
+https://www.ulusofona.pt/documents
+
+https://www.ulusofona.pt/doutoramentos
+
+https://www.ulusofona.pt/en/about
+
+https://www.ulusofona.pt/en/acao-social-escolar
+
+https://www.ulusofona.pt/en/applications
+
+https://www.ulusofona.pt/en/avadoc
+
+https://www.ulusofona.pt/en/bachelor
+
+https://www.ulusofona.pt/en/building-knowledge
+
+- https://www.ulusofona.pt/en/calendars
+
+https://www.ulusofona.pt/en/chronicles
+
+- https://www.ulusofona.pt/en/cinema-fernando-lopes
+
+https://www.ulusofona.pt/en/click
+
+https://www.ulusofona.pt/en/contacts
+
+https://www.ulusofona.pt/en/conversations-about/
+
+https://www.ulusofona.pt/en/courses
+
+https://www.ulusofona.pt/en/documents
+
+- https://www.ulusofona.pt/en/email
+- https://www.ulusofona.pt/en/en/masters
+- https://www.ulusofona.pt/en/erasmus-mundus
+
+https://www.ulusofona.pt/en/event
+
+https://www.ulusofona.pt/en/faculties-and-schools
+
+https://www.ulusofona.pt/en/faqs
+
+- https://www.ulusofona.pt/en/fees
+- https://www.ulusofona.pt/en/gaenee
+
+https://www.ulusofona.pt/en/green-lusofona
+
+https://www.ulusofona.pt/en/integrated-masters
+
+- https://www.ulusofona.pt/en/internal-reporting-channel
+
+https://www.ulusofona.pt/en/international-students
+
+https://www.ulusofona.pt/en/interviews
+
+- https://www.ulusofona.pt/en/lessons
+
+https://www.ulusofona.pt/en/lisboa/bachelor
+
+https://www.ulusofona.pt/en/lisboa/erasmus-mundus
+
+https://www.ulusofona.pt/en/lisboa/integrated-masters
+
+https://www.ulusofona.pt/en/lisboa/masters
+
+https://www.ulusofona.pt/en/lisboa/open-courses
+
+https://www.ulusofona.pt/en/lisboa/phd
+
+https://www.ulusofona.pt/en/lisboa/post-graduation
+
+https://www.ulusofona.pt/en/lisboa/teachers
+
+https://www.ulusofona.pt/en/lisboa/training
+
+
+- https://www.ulusofona.pt/en/lost-and-found
+- https://www.ulusofona.pt/en/lusofona-in-the-media
+
+
+https://www.ulusofona.pt/en/lusofona-talks
+
+- https://www.ulusofona.pt/en/lusofona-verde
+
+
+https://www.ulusofona.pt/en/masters
+
+
+https://www.ulusofona.pt/en/mobility
+
+https://www.ulusofona.pt/en/news
+
+
+https://www.ulusofona.pt/en/noisi
+
+https://www.ulusofona.pt/en/open-days
+
+https://www.ulusofona.pt/en/open-positions
+
+https://www.ulusofona.pt/en/phd
+
+https://www.ulusofona.pt/en/podcasts
+
+https://www.ulusofona.pt/en/porto
+
+https://www.ulusofona.pt/en/post-graduation
+
+https://www.ulusofona.pt/en/qualidade
+
+https://www.ulusofona.pt/en/services
+
+
+
+
+https://www.ulusofona.pt/en/student
+
+https://www.ulusofona.pt/en/teacher-and-researcher-training
+
+https://www.ulusofona.pt/en/teachers
+
+
+https://www.ulusofona.pt/en/testimonials
+
+- https://www.ulusofona.pt/en/theses
+
+- https://www.ulusofona.pt/en/training
+
+
+https://www.ulusofona.pt/en/undergraduate
+
+- lixo - https://www.ulusofona.pt/en/validation-of-issued-documents
+
+https://www.ulusofona.pt/entrevistas
+
+https://www.ulusofona.pt/erasmus-mundus
+
+https://www.ulusofona.pt/estudante-internacional
+
+https://www.ulusofona.pt/estudantes
+
+https://www.ulusofona.pt/event
+
+https://www.ulusofona.pt/faculdades-e-escolas
+
+https://www.ulusofona.pt/faqs
+
+- https://www.ulusofona.pt/formacao
+- https://www.ulusofona.pt/formacao-docentes-e-investigador/formacao-docentes-e-investigadores
+- https://www.ulusofona.pt/formacao-docentes-e-investigador/formacao-docentes-e-investigadores#share-modal
+
+- https://www.ulusofona.pt/gaenee
+- https://www.ulusofona.pt/lessons
+
+
+https://www.ulusofona.pt/licenciaturas
+
+
+https://www.ulusofona.pt/lisboa/bachelor
+
+
+
+https://www.ulusofona.pt/lisboa/docentes
+
+
+https://www.ulusofona.pt/lisboa/doutoramentos
+
+
+https://www.ulusofona.pt/lisboa/erasmus-mundus
+
+
+https://www.ulusofona.pt/lisboa/formacao
+
+
+https://www.ulusofona.pt/lisboa/integrated-masters
+
+
+https://www.ulusofona.pt/lisboa/licenciaturas
+
+
+https://www.ulusofona.pt/lisboa/masters
+
+https://www.ulusofona.pt/lisboa/mestrados
+
+
+https://www.ulusofona.pt/lisboa/phd
+
+https://www.ulusofona.pt/lisboa/pos-graduacoes
+
+
+
+
+
+- https://www.ulusofona.pt/lusofona-nos-media
+
+https://www.ulusofona.pt/lusofona-talks
+
+https://www.ulusofona.pt/lusofona-verde
+
+https://www.ulusofona.pt/media
+
+https://www.ulusofona.pt/mestrados
+
+https://www.ulusofona.pt/mobilidade
+
+https://www.ulusofona.pt/news
+
+https://www.ulusofona.pt/noisi
+
+https://www.ulusofona.pt/noticias
+
+- https://www.ulusofona.pt/office365
+
+- https://www.ulusofona.pt/perdidos-e-achados
+
+https://www.ulusofona.pt/podcasts
+
+https://www.ulusofona.pt/porto
+
+https://www.ulusofona.pt/pos-graduacoes
+
+- https://www.ulusofona.pt/programa-preparar
+- https://www.ulusofona.pt/propinas
+- https://www.ulusofona.pt/provedor-do-estudante
+
+https://www.ulusofona.pt/qualidade
+
+https://www.ulusofona.pt/servicos
+
+- https://www.ulusofona.pt/sistema-teams
+- https://www.ulusofona.pt/sistema-zoom
+
+https://www.ulusofona.pt/sobre
+
+- https://www.ulusofona.pt/teses
+
+https://www.ulusofona.pt/testemunhos
+
+https://www.ulusofona.pt/vagas
