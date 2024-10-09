@@ -1,0 +1,65 @@
+2024-10-09 01:36:17,035 - INFO - Processing URL 1/17132: https://www.ulusofona.pt/
+2024-10-09 01:36:19,648 - INFO - Response saved to output2/index_0.md
+2024-10-09 01:36:21,649 - INFO - Processing URL 2/17132: https://www.ulusofona.pt/acao-social-escolar
+2024-10-09 01:36:23,644 - INFO - Response saved to output2/acao-social-escolar.md
+2024-10-09 01:36:25,644 - INFO - Processing URL 3/17132: https://www.ulusofona.pt/acao-social-escolar#saude
+2024-10-09 01:36:25,645 - INFO - Skipping https://www.ulusofona.pt/acao-social-escolar#saude as it has already been scraped
+2024-10-09 01:36:25,645 - INFO - Processing URL 4/17132: https://www.ulusofona.pt/acao-social-escolar/alojamento
+2024-10-09 01:36:28,231 - INFO - Response saved to output2/acao-social-escolar_alojamento.md
+2024-10-09 01:36:30,232 - INFO - Processing URL 5/17132: https://www.ulusofona.pt/acao-social-escolar/apoios
+2024-10-09 01:36:32,989 - INFO - Response saved to output2/acao-social-escolar_apoios.md
+2024-10-09 01:36:34,989 - INFO - Processing URL 6/17132: https://www.ulusofona.pt/acao-social-escolar/apoios-diretos
+2024-10-09 01:36:38,110 - INFO - Response saved to output2/acao-social-escolar_apoios-diretos.md
+2024-10-09 01:36:40,111 - INFO - Processing URL 7/17132: https://www.ulusofona.pt/acao-social-escolar/apoios-diretos
+2024-10-09 01:36:40,111 - INFO - Skipping https://www.ulusofona.pt/acao-social-escolar/apoios-diretos as it has already been scraped
+2024-10-09 01:36:40,112 - INFO - Processing URL 8/17132: https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_cplp
+2024-10-09 01:36:40,112 - INFO - Skipping https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_cplp as it has already been scraped
+2024-10-09 01:36:40,112 - INFO - Processing URL 9/17132: https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_dges
+2024-10-09 01:36:40,112 - INFO - Skipping https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_dges as it has already been scraped
+2024-10-09 01:36:40,112 - INFO - Processing URL 10/17132: https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_doutoramento
+2024-10-09 01:36:40,112 - INFO - Skipping https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_doutoramento as it has already been scraped
+2024-10-09 01:36:40,112 - INFO - Processing URL 11/17132: https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_excelencia
+2024-10-09 01:36:40,113 - INFO - Skipping https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_excelencia as it has already been scraped
+2024-10-09 01:36:40,113 - INFO - Processing URL 12/17132: https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_merito
+2024-10-09 01:36:40,113 - INFO - Skipping https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_merito as it has already been scraped
+2024-10-09 01:36:40,113 - INFO - Processing URL 13/17132: https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_ue
+2024-10-09 01:36:40,113 - INFO - Skipping https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#b_ue as it has already been scraped
+2024-10-09 01:36:40,113 - INFO - Processing URL 14/17132: https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#bolsas-de-doutoramento
+2024-10-09 01:36:40,113 - INFO - Skipping https://www.ulusofona.pt/acao-social-escolar/apoios-diretos#bolsas-de-doutoramento as it has already been scraped
+2024-10-09 01:36:40,113 - INFO - Processing URL 15/17132: https://www.ulusofona.pt/acao-social-escolar/desporto-e-bem-estar
+2024-10-09 01:36:42,257 - INFO - Response saved to output2/acao-social-escolar_desporto-e-bem-estar.md
+2024-10-09 01:36:44,258 - INFO - Processing URL 16/17132: https://www.ulusofona.pt/avadoc
+2024-10-09 01:36:46,307 - INFO - Response saved to output2/avadoc.md
+2024-10-09 01:36:48,307 - INFO - Processing URL 17/17132: https://www.ulusofona.pt/avadoc#guiao
+2024-10-09 01:36:48,308 - INFO - Skipping https://www.ulusofona.pt/avadoc#guiao as it has already been scraped
+2024-10-09 01:36:48,308 - INFO - Processing URL 18/17132: https://www.ulusofona.pt/calendarios
+2024-10-09 01:36:50,323 - INFO - Response saved to output2/calendarios.md
+2024-10-09 01:36:52,324 - INFO - Processing URL 19/17132: https://www.ulusofona.pt/canal-denuncia-interna
+2024-10-09 01:36:54,180 - INFO - Response saved to output2/canal-denuncia-interna.md
+2024-10-09 01:36:56,181 - INFO - Processing URL 20/17132: https://www.ulusofona.pt/candidaturas
+2024-10-09 01:36:58,113 - INFO - Response saved to output2/candidaturas.md
+2024-10-09 01:37:00,113 - INFO - Processing URL 21/17132: https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura
+2024-10-09 01:37:02,336 - INFO - Response saved to output2/candidaturas_calendarios-de-candidatura.md
+2024-10-09 01:37:04,337 - INFO - Processing URL 22/17132: https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#acesso
+2024-10-09 01:37:04,337 - INFO - Skipping https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#acesso as it has already been scraped
+2024-10-09 01:37:04,337 - INFO - Processing URL 23/17132: https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#doutoramentos
+2024-10-09 01:37:04,337 - INFO - Skipping https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#doutoramentos as it has already been scraped
+2024-10-09 01:37:04,338 - INFO - Processing URL 24/17132: https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#internacionais
+2024-10-09 01:37:04,338 - INFO - Skipping https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#internacionais as it has already been scraped
+2024-10-09 01:37:04,338 - INFO - Processing URL 25/17132: https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#mestrados
+2024-10-09 01:37:04,338 - INFO - Skipping https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#mestrados as it has already been scraped
+2024-10-09 01:37:04,338 - INFO - Processing URL 26/17132: https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#provas
+2024-10-09 01:37:04,338 - INFO - Skipping https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#provas as it has already been scraped
+2024-10-09 01:37:04,338 - INFO - Processing URL 27/17132: https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#provas-acesso
+2024-10-09 01:37:04,339 - INFO - Skipping https://www.ulusofona.pt/candidaturas/calendarios-de-candidatura#provas-acesso as it has already been scraped
+2024-10-09 01:37:04,339 - INFO - Processing URL 28/17132: https://www.ulusofona.pt/candidaturas/curso-preparatorio-internacionais
+2024-10-09 01:37:07,258 - INFO - Response saved to output2/candidaturas_curso-preparatorio-internacionais.md
+2024-10-09 01:37:09,259 - INFO - Processing URL 29/17132: https://www.ulusofona.pt/candidaturas/doutoramentos
+2024-10-09 01:37:11,169 - INFO - Response saved to output2/candidaturas_doutoramentos.md
+2024-10-09 01:37:13,170 - INFO - Processing URL 30/17132: https://www.ulusofona.pt/candidaturas/licenciaturas
+2024-10-09 01:37:15,318 - INFO - Response saved to output2/candidaturas_licenciaturas.md
+2024-10-09 01:37:17,318 - INFO - Processing URL 31/17132: https://www.ulusofona.pt/candidaturas/mestrados
+2024-10-09 01:37:19,722 - INFO - Response saved to output2/candidaturas_mestrados.md
+2024-10-09 01:37:21,722 - INFO - Processing URL 32/17132: https://www.ulusofona.pt/candidaturas/mestrados#reqCinema
+2024-10-09 01:37:21,723 - INFO - Skipping https://www.ulusofona.pt/candidaturas/mestrados#reqCinema as it has already been scraped
+2024-10-09 01:37:21,723 - INFO - Processing URL 33/17132: https://www.ulusofona.pt/candidaturas/mestrados-integrados

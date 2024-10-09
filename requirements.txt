@@ -34,6 +34,7 @@ h11==0.14.0
 htmldate==1.9.0
 httpcore==1.0.6
 httpx==0.27.2
+huggingface-hub==0.25.1
 hyperlink==21.0.0
 idna==3.10
 incremental==24.7.2
@@ -57,7 +58,9 @@ llama-index-core==0.11.16
 llama-index-embeddings-openai==0.2.5
 llama-index-indices-managed-llama-cloud==0.4.0
 llama-index-legacy==0.9.48.post3
+llama-index-llms-groq==0.2.0
 llama-index-llms-openai==0.2.11
+llama-index-llms-openai-like==0.2.0
 llama-index-multi-modal-llms-openai==0.2.2
 llama-index-program-openai==0.2.0
 llama-index-question-gen-openai==0.2.0
@@ -102,6 +105,7 @@ pyOpenSSL==24.2.1
 pypdf==4.3.1
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
 pytz==2024.2
 PyYAML==6.0.2
 pyzmq==26.2.0
@@ -109,6 +113,7 @@ queuelib==1.7.0
 regex==2024.9.11
 requests==2.32.3
 requests-file==2.1.0
+safetensors==0.4.5
 Scrapy==2.11.2
 selenium==4.25.0
 service-identity==24.1.0
@@ -123,10 +128,12 @@ tenacity==8.5.0
 tiktoken==0.8.0
 tld==0.13
 tldextract==5.1.2
+tokenizers==0.20.0
 tornado==6.4.1
 tqdm==4.66.5
 trafilatura==1.12.2
 traitlets==5.14.3
+transformers==4.45.2
 trio==0.26.2
 trio-websocket==0.11.1
 Twisted==24.7.0
