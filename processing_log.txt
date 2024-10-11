@@ -19412,3 +19412,31 @@ Test write to log file
 2024-10-11 09:05:39,802 - WARNING - Error with model llama3-70b-8192: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama3-70b-8192` in organization `org_01hw5e9k5tem7tr1pqpwvhg4pz` on : Limit 500000, Used 499224, Requested 1292. Please try again in 1m29.0426s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}. Attempt 1 of 12
 2024-10-11 09:05:39,804 - INFO - Rate limit exceeded. Waiting for 60 seconds before retrying.
 2024-10-11 09:05:39,804 - INFO - Rate limit exceeded. Waiting for 60 seconds before retrying.
+2024-10-11 09:06:39,809 - INFO - Rotating to model: llama-3.1-70b-versatile
+2024-10-11 09:06:39,809 - INFO - Rotating to model: llama-3.1-70b-versatile
+2024-10-11 09:06:41,145 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-11 09:06:41,145 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-11 09:06:41,150 - INFO - Successfully processed using model: llama-3.1-70b-versatile
+2024-10-11 09:06:41,150 - INFO - Successfully processed using model: llama-3.1-70b-versatile
+2024-10-11 09:06:41,152 - INFO - Finished processing out/docentes_francisco-antonio-de-macedo-lucas-ferreira-de-almeida-3407.md with model: llama3-70b-8192
+2024-10-11 09:06:41,152 - INFO - Finished processing out/docentes_francisco-antonio-de-macedo-lucas-ferreira-de-almeida-3407.md with model: llama3-70b-8192
+2024-10-11 09:06:41,166 - INFO - Saved processed content to output_clean_formatted/docentes_francisco-antonio-de-macedo-lucas-ferreira-de-almeida-3407.md
+2024-10-11 09:06:41,166 - INFO - Saved processed content to output_clean_formatted/docentes_francisco-antonio-de-macedo-lucas-ferreira-de-almeida-3407.md
+2024-10-11 09:06:41,168 - INFO - Starting to process en_porto_bachelor_it-engineering_ULP452-22523.md...
+2024-10-11 09:06:41,168 - INFO - Starting to process en_porto_bachelor_it-engineering_ULP452-22523.md...
+2024-10-11 09:06:41,173 - INFO - Processing file out/en_porto_bachelor_it-engineering_ULP452-22523.md with model: llama-3.1-70b-versatile
+2024-10-11 09:06:41,173 - INFO - Processing file out/en_porto_bachelor_it-engineering_ULP452-22523.md with model: llama-3.1-70b-versatile
+2024-10-11 09:06:41,443 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-10-11 09:06:41,443 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-10-11 09:06:41,447 - WARNING - Retrying llama_index.llms.openai.base.OpenAI._chat in 0.06049008371665299 seconds as it raised RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-70b-versatile` in organization `org_01hw5e9k5tem7tr1pqpwvhg4pz` on : Limit 500000, Used 497939, Requested 2668. Please try again in 1m44.773399999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}.
+2024-10-11 09:06:41,447 - WARNING - Retrying llama_index.llms.openai.base.OpenAI._chat in 0.06049008371665299 seconds as it raised RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-70b-versatile` in organization `org_01hw5e9k5tem7tr1pqpwvhg4pz` on : Limit 500000, Used 497939, Requested 2668. Please try again in 1m44.773399999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}.
+2024-10-11 09:06:41,745 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-10-11 09:06:41,745 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-10-11 09:06:41,749 - WARNING - Retrying llama_index.llms.openai.base.OpenAI._chat in 1.5668221147102857 seconds as it raised RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-70b-versatile` in organization `org_01hw5e9k5tem7tr1pqpwvhg4pz` on : Limit 500000, Used 497937, Requested 2668. Please try again in 1m44.4684s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}.
+2024-10-11 09:06:41,749 - WARNING - Retrying llama_index.llms.openai.base.OpenAI._chat in 1.5668221147102857 seconds as it raised RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-70b-versatile` in organization `org_01hw5e9k5tem7tr1pqpwvhg4pz` on : Limit 500000, Used 497937, Requested 2668. Please try again in 1m44.4684s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}.
+2024-10-11 09:06:43,548 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-10-11 09:06:43,548 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-10-11 09:06:43,550 - WARNING - Error with model llama-3.1-70b-versatile: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-70b-versatile` in organization `org_01hw5e9k5tem7tr1pqpwvhg4pz` on : Limit 500000, Used 497927, Requested 2668. Please try again in 1m42.659399999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}. Attempt 1 of 12
+2024-10-11 09:06:43,550 - WARNING - Error with model llama-3.1-70b-versatile: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-70b-versatile` in organization `org_01hw5e9k5tem7tr1pqpwvhg4pz` on : Limit 500000, Used 497927, Requested 2668. Please try again in 1m42.659399999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}. Attempt 1 of 12
+2024-10-11 09:06:43,552 - INFO - Rate limit exceeded. Waiting for 60 seconds before retrying.
+2024-10-11 09:06:43,552 - INFO - Rate limit exceeded. Waiting for 60 seconds before retrying.
