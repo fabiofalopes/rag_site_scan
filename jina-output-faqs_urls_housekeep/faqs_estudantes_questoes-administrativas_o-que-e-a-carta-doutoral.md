@@ -1,0 +1,3 @@
+# Response for https://www.ulusofona.pt/faqs/estudantes/questoes-administrativas/o-que-e-a-carta-doutoral
+
+{"data":null,"cause":{"name":"TimeoutError"},"code":422,"name":"AssertionFailureError","status":42206,"message":"Failed to goto https://www.ulusofona.pt/faqs/estudantes/questoes-administrativas/o-que-e-a-carta-doutoral: TimeoutError: Navigation timeout of 30000 ms exceeded","readableMessage":"AssertionFailureError: Failed to goto https://www.ulusofona.pt/faqs/estudantes/questoes-administrativas/o-que-e-a-carta-doutoral: TimeoutError: Navigation timeout of 30000 ms exceeded"}
